@@ -24,3 +24,21 @@ Pokročilé datové typy
 - Množina (set)
 - Slovník (dictionary)
 
+### 4. Podmínky a logické operátory (`4_Podminky_log_operatory.py`)
+Řízení toku programu pomocí podmínek a logických operátorů.
+- Příkazy `if`, `elif`, `else`
+- Logické operátory `and`, `or`, `not`
+- Vnořené podmínky
+
+### 5. Cyklus For (`5_Cyklus_For.py`)
+Iterace přes sekvence a iterovatelné objekty.
+- Iterace přes seznamy, řetězce
+- Funkce `range()` a `enumerate()`
+
+### 6. Cyklus While (`6_Cyklus_While.py`)
+Opakování bloku kódu dokud platí podmínka.
+- Základní syntaxe `while` cyklu
+- Nekonečné cykly
+- Příkazy `break` a `continue`
+
+
